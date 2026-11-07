@@ -1,0 +1,10 @@
+[package]
+name = "zakat-rs-zuru-harvest-ushr"
+version = "1.0.0"
+edition = "2021"
+description = "Agricultural Zuru' & Thimar Ushr (10% / 5% / 7.5%) Calculator"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "zakat_rs_zuru_harvest_ushr"
+path = "main.rs"
